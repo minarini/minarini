@@ -1,2 +1,3 @@
-                                                          `![giphy (1)](https://github.com/minarini/minarini/assets/142440243/7659d078-0ce0-4425-b888-880082c3618d)
+![J7Fx-N](https://github.com/minarini/minarini/assets/142440243/cad91c81-d0d7-45c1-b478-95353cccecc8)
+
 
