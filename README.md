@@ -1,3 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minarini&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minarini&layout=compact&theme=dracula)
+![giphy (1)](https://github.com/minarini/minarini/assets/142440243/7659d078-0ce0-4425-b888-880082c3618d)
 ₊˚⊹ 🐰 ₊˚⊹♡ 🐶 ₊˚⊹♡₊ 🐻 ˚⊹♡₊ 🐹˚⊹♡₊ 🦄˚⊹♡₊ 🐧˚⊹♡₊ 🐷 ˚⊹♡₊ 🐯˚⊹♡₊ 🦌 ˚⊹♡₊˚
