@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=nicolle+pimenta+%2F+;fullstack+%E2%80%94+backend+enthusiast;data+science+%26+ai+%E2%80%94+in+progress;日本語学習中（中級）)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=nicolle+pimenta;fullstack+%E2%80%94+backend+enthusiast;data+science+%26+ai+%E2%80%94+in+progress;日本語学習中（中級）)](https://git.io/typing-svg)
 
 </div>
 
