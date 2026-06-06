@@ -2,8 +2,6 @@
 
 Graduated in Systems Analysis and Development, postgraduate student in **Data Science & Artificial Intelligence**. 4+ years with Java, building backend systems and full-stack applications — from REST APIs to real-time systems and data-driven solutions.
 
-Currently expanding into **Machine Learning and AI**, with a mindset of continuous learning and adaptability.
-
 ---
 
 ## ⚙️ Tech Stack
