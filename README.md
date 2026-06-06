@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=nicolle+pimenta;fullstack+%E2%80%94+backend+focused;data+science+%26+ai+%E2%80%94+in+progress;日本語学習中（中級）)](https://git.io/typing-svg)
-
-</div>
-
----
-
 Graduated in Systems Analysis and Development, postgraduate student in **Data Science & Artificial Intelligence**. 4+ years with Java, building backend systems and full-stack applications — from REST APIs to real-time systems and data-driven solutions.
 
 Currently expanding into **Machine Learning and AI**, with a mindset of continuous learning and adaptability.
