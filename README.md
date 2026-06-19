@@ -4,7 +4,7 @@ Graduated in Systems Analysis and Development, postgraduate student in **Data Sc
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,7 +39,7 @@ Graduated in Systems Analysis and Development, postgraduate student in **Data Sc
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -53,13 +53,12 @@ Graduated in Systems Analysis and Development, postgraduate student in **Data Sc
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollerpimenta)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollerpimenta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarini)
 
 </div>
 
