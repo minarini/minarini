@@ -43,11 +43,8 @@ Graduated in Systems Analysis and Development, postgraduate student in **Data Sc
 
 <div align="center">
 
-![Nicolle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minarini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=c084fc&text_color=e2e8f0)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minarini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=minarini&theme=tokyonight&hide_border=true&background=0d0d0d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc)
 
 </div>
 
